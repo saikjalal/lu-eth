@@ -9,3 +9,10 @@ KorthCoin.sol:
 - Creates a ERC20 token named KorthCoin, containing an initial mint and a mintMe function allowing additional mints.
 
 [THIS SOLIDITY PROJECT WAS DONE ON REMIX]
+
+Contributors: 
+- Saik Jalal
+- Matthew Manganillo
+- Nick Healy
+- Sam Wiley
+- Emir Veziroglu
